@@ -1,0 +1,28 @@
+
+
+Huffman Linked List
+
+(dummy, 0,  z, NULL, NULL)->(z, 2,  u, NULL, NULL)->(u, 3,  o, NULL, NULL)->(o, 5,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 30,  a, NULL, NULL)->(a, 50,  NULL, NULL, NULL)->
+
+
+Binary Code of Each Character
+
+z 00000
+u 00001
+o 0001
+i 001
+e 01
+a 1
+
+
+Preorder Traversal
+
+(zuoiea, 100,  NULL, zuoie, a)->(zuoie, 50,  NULL, zuoi, e)->(zuoi, 20,  NULL, zuo, i)->(zuo, 10,  NULL, zu, o)->(zu, 5,  NULL, z, u)->(z, 2, 00000, NULL, NULL, NULL)->(u, 3, 00001, NULL, NULL, NULL)->(o, 5, 0001, NULL, NULL, NULL)->(i, 10, 001, NULL, NULL, NULL)->(e, 30, 01, NULL, NULL, NULL)->(a, 50, 1, NULL, NULL, NULL)->
+
+Inorder Traversal
+
+(z, 2, 00000, NULL, NULL, NULL)->(zu, 5,  NULL, z, u)->(u, 3, 00001, NULL, NULL, NULL)->(zuo, 10,  NULL, zu, o)->(o, 5, 0001, NULL, NULL, NULL)->(zuoi, 20,  NULL, zuo, i)->(i, 10, 001, NULL, NULL, NULL)->(zuoie, 50,  NULL, zuoi, e)->(e, 30, 01, NULL, NULL, NULL)->(zuoiea, 100,  NULL, zuoie, a)->(a, 50, 1, NULL, NULL, NULL)->
+
+Postorder Traversal
+
+(z, 2, 00000, NULL, NULL, NULL)->(u, 3, 00001, NULL, NULL, NULL)->(zu, 5,  NULL, z, u)->(o, 5, 0001, NULL, NULL, NULL)->(zuo, 10,  NULL, zu, o)->(i, 10, 001, NULL, NULL, NULL)->(zuoi, 20,  NULL, zuo, i)->(e, 30, 01, NULL, NULL, NULL)->(zuoie, 50,  NULL, zuoi, e)->(a, 50, 1, NULL, NULL, NULL)->(zuoiea, 100,  NULL, zuoie, a)->

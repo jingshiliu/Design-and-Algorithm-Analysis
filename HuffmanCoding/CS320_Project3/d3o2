@@ -1,0 +1,80 @@
+LL
+
+(dummy, 0,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  d, NULL, NULL)->(d, 3,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  d, NULL, NULL)->(d, 3,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  h, NULL, NULL)->(h, 1,  d, NULL, NULL)->(d, 3,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  h, NULL, NULL)->(h, 1,  d, NULL, NULL)->(d, 3,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  g, NULL, NULL)->(g, 1,  h, NULL, NULL)->(h, 1,  d, NULL, NULL)->(d, 3,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  g, NULL, NULL)->(g, 1,  h, NULL, NULL)->(h, 1,  d, NULL, NULL)->(d, 3,  o, NULL, NULL)->(o, 5,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  g, NULL, NULL)->(g, 1,  h, NULL, NULL)->(h, 1,  s, NULL, NULL)->(s, 2,  d, NULL, NULL)->(d, 3,  o, NULL, NULL)->(o, 5,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  g, NULL, NULL)->(g, 1,  h, NULL, NULL)->(h, 1,  s, NULL, NULL)->(s, 2,  d, NULL, NULL)->(d, 3,  t, NULL, NULL)->(t, 5,  o, NULL, NULL)->(o, 5,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  c, NULL, NULL)->(c, 1,  g, NULL, NULL)->(g, 1,  h, NULL, NULL)->(h, 1,  s, NULL, NULL)->(s, 2,  d, NULL, NULL)->(d, 3,  t, NULL, NULL)->(t, 5,  o, NULL, NULL)->(o, 5,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  m, NULL, NULL)->(m, 1,  c, NULL, NULL)->(c, 1,  g, NULL, NULL)->(g, 1,  h, NULL, NULL)->(h, 1,  s, NULL, NULL)->(s, 2,  d, NULL, NULL)->(d, 3,  t, NULL, NULL)->(t, 5,  o, NULL, NULL)->(o, 5,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  v, NULL, NULL)->(v, 1,  m, NULL, NULL)->(m, 1,  c, NULL, NULL)->(c, 1,  g, NULL, NULL)->(g, 1,  h, NULL, NULL)->(h, 1,  s, NULL, NULL)->(s, 2,  d, NULL, NULL)->(d, 3,  t, NULL, NULL)->(t, 5,  o, NULL, NULL)->(o, 5,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  v, NULL, NULL)->(v, 1,  m, NULL, NULL)->(m, 1,  c, NULL, NULL)->(c, 1,  g, NULL, NULL)->(g, 1,  h, NULL, NULL)->(h, 1,  s, NULL, NULL)->(s, 2,  d, NULL, NULL)->(d, 3,  t, NULL, NULL)->(t, 5,  o, NULL, NULL)->(o, 5,  b, NULL, NULL)->(b, 10,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+
+
+Tree
+(dummy, 0,  c, NULL, NULL)->(c, 1,  g, NULL, NULL)->(g, 1,  h, NULL, NULL)->(h, 1,  vm, NULL, NULL)->(vm, 2,  s, v, m)->(s, 2,  d, NULL, NULL)->(d, 3,  t, NULL, NULL)->(t, 5,  o, NULL, NULL)->(o, 5,  b, NULL, NULL)->(b, 10,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  h, NULL, NULL)->(h, 1,  cg, NULL, NULL)->(cg, 2,  vm, c, g)->(vm, 2,  s, v, m)->(s, 2,  d, NULL, NULL)->(d, 3,  t, NULL, NULL)->(t, 5,  o, NULL, NULL)->(o, 5,  b, NULL, NULL)->(b, 10,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  vm, NULL, NULL)->(vm, 2,  s, v, m)->(s, 2,  hcg, NULL, NULL)->(hcg, 3,  d, h, cg)->(d, 3,  t, NULL, NULL)->(t, 5,  o, NULL, NULL)->(o, 5,  b, NULL, NULL)->(b, 10,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  hcg, NULL, NULL)->(hcg, 3,  d, h, cg)->(d, 3,  vms, NULL, NULL)->(vms, 4,  t, vm, s)->(t, 5,  o, NULL, NULL)->(o, 5,  b, NULL, NULL)->(b, 10,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  vms, NULL, NULL)->(vms, 4,  t, vm, s)->(t, 5,  o, NULL, NULL)->(o, 5,  hcgd, NULL, NULL)->(hcgd, 6,  b, hcg, d)->(b, 10,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  o, NULL, NULL)->(o, 5,  hcgd, NULL, NULL)->(hcgd, 6,  vmst, hcg, d)->(vmst, 9,  b, vms, t)->(b, 10,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  vmst, NULL, NULL)->(vmst, 9,  b, vms, t)->(b, 10,  i, NULL, NULL)->(i, 10,  ohcgd, NULL, NULL)->(ohcgd, 11,  e, o, hcgd)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  i, NULL, NULL)->(i, 10,  ohcgd, NULL, NULL)->(ohcgd, 11,  vmstb, o, hcgd)->(vmstb, 19,  e, vmst, b)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  vmstb, NULL, NULL)->(vmstb, 19,  e, vmst, b)->(e, 20,  iohcgd, NULL, NULL)->(iohcgd, 21,  a, i, ohcgd)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  iohcgd, NULL, NULL)->(iohcgd, 21,  vmstbe, i, ohcgd)->(vmstbe, 39,  a, vmstb, e)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  a, NULL, NULL)->(a, 40,  iohcgdvmstbe, NULL, NULL)->(iohcgdvmstbe, 60,  NULL, iohcgd, vmstbe)->
+
+
+(dummy, 0,  aiohcgdvmstbe, NULL, NULL)->(aiohcgdvmstbe, 100,  NULL, a, iohcgdvmstbe)->
+
+

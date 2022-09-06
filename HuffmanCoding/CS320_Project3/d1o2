@@ -1,0 +1,44 @@
+LL
+
+(dummy, 0,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  o, NULL, NULL)->(o, 5,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  o, NULL, NULL)->(o, 5,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  h, NULL, NULL)->(h, 5,  o, NULL, NULL)->(o, 5,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  h, NULL, NULL)->(h, 5,  o, NULL, NULL)->(o, 5,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  h, NULL, NULL)->(h, 5,  o, NULL, NULL)->(o, 5,  i, NULL, NULL)->(i, 10,  g, NULL, NULL)->(g, 15,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  d, NULL, NULL)->(d, 5,  h, NULL, NULL)->(h, 5,  o, NULL, NULL)->(o, 5,  i, NULL, NULL)->(i, 10,  g, NULL, NULL)->(g, 15,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+
+
+Tree
+(dummy, 0,  o, NULL, NULL)->(o, 5,  dh, NULL, NULL)->(dh, 10,  i, d, h)->(i, 10,  g, NULL, NULL)->(g, 15,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  i, NULL, NULL)->(i, 10,  odh, NULL, NULL)->(odh, 15,  g, o, dh)->(g, 15,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  g, NULL, NULL)->(g, 15,  e, NULL, NULL)->(e, 20,  iodh, NULL, NULL)->(iodh, 25,  a, i, odh)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  iodh, NULL, NULL)->(iodh, 25,  ge, i, odh)->(ge, 35,  a, g, e)->(a, 40,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  a, NULL, NULL)->(a, 40,  iodhge, NULL, NULL)->(iodhge, 60,  NULL, iodh, ge)->
+
+
+(dummy, 0,  aiodhge, NULL, NULL)->(aiodhge, 100,  NULL, a, iodhge)->
+
+

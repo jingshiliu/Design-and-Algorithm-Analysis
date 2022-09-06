@@ -1,0 +1,35 @@
+
+
+Huffman Linked List
+
+(dummy, 0,  v, NULL, NULL)->(v, 1,  m, NULL, NULL)->(m, 1,  c, NULL, NULL)->(c, 1,  g, NULL, NULL)->(g, 1,  h, NULL, NULL)->(h, 1,  s, NULL, NULL)->(s, 2,  d, NULL, NULL)->(d, 3,  t, NULL, NULL)->(t, 5,  o, NULL, NULL)->(o, 5,  b, NULL, NULL)->(b, 10,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+Binary Code of Each Character
+
+a 0
+i 100
+o 1010
+h 101100
+c 1011010
+g 1011011
+d 10111
+v 1100000
+m 1100001
+s 110001
+t 11001
+b 1101
+e 111
+
+
+Preorder Traversal
+
+(aiohcgdvmstbe, 100,  NULL, a, iohcgdvmstbe)->(a, 40, 0, NULL, NULL, NULL)->(iohcgdvmstbe, 60,  NULL, iohcgd, vmstbe)->(iohcgd, 21,  NULL, i, ohcgd)->(i, 10, 100, NULL, NULL, NULL)->(ohcgd, 11,  NULL, o, hcgd)->(o, 5, 1010, NULL, NULL, NULL)->(hcgd, 6,  NULL, hcg, d)->(hcg, 3,  NULL, h, cg)->(h, 1, 101100, NULL, NULL, NULL)->(cg, 2,  NULL, c, g)->(c, 1, 1011010, NULL, NULL, NULL)->(g, 1, 1011011, NULL, NULL, NULL)->(d, 3, 10111, NULL, NULL, NULL)->(vmstbe, 39,  NULL, vmstb, e)->(vmstb, 19,  NULL, vmst, b)->(vmst, 9,  NULL, vms, t)->(vms, 4,  NULL, vm, s)->(vm, 2,  NULL, v, m)->(v, 1, 1100000, NULL, NULL, NULL)->(m, 1, 1100001, NULL, NULL, NULL)->(s, 2, 110001, NULL, NULL, NULL)->(t, 5, 11001, NULL, NULL, NULL)->(b, 10, 1101, NULL, NULL, NULL)->(e, 20, 111, NULL, NULL, NULL)->
+
+Inorder Traversal
+
+(a, 40, 0, NULL, NULL, NULL)->(aiohcgdvmstbe, 100,  NULL, a, iohcgdvmstbe)->(i, 10, 100, NULL, NULL, NULL)->(iohcgd, 21,  NULL, i, ohcgd)->(o, 5, 1010, NULL, NULL, NULL)->(ohcgd, 11,  NULL, o, hcgd)->(h, 1, 101100, NULL, NULL, NULL)->(hcg, 3,  NULL, h, cg)->(c, 1, 1011010, NULL, NULL, NULL)->(cg, 2,  NULL, c, g)->(g, 1, 1011011, NULL, NULL, NULL)->(hcgd, 6,  NULL, hcg, d)->(d, 3, 10111, NULL, NULL, NULL)->(iohcgdvmstbe, 60,  NULL, iohcgd, vmstbe)->(v, 1, 1100000, NULL, NULL, NULL)->(vm, 2,  NULL, v, m)->(m, 1, 1100001, NULL, NULL, NULL)->(vms, 4,  NULL, vm, s)->(s, 2, 110001, NULL, NULL, NULL)->(vmst, 9,  NULL, vms, t)->(t, 5, 11001, NULL, NULL, NULL)->(vmstb, 19,  NULL, vmst, b)->(b, 10, 1101, NULL, NULL, NULL)->(vmstbe, 39,  NULL, vmstb, e)->(e, 20, 111, NULL, NULL, NULL)->
+
+Postorder Traversal
+
+(a, 40, 0, NULL, NULL, NULL)->(i, 10, 100, NULL, NULL, NULL)->(o, 5, 1010, NULL, NULL, NULL)->(h, 1, 101100, NULL, NULL, NULL)->(c, 1, 1011010, NULL, NULL, NULL)->(g, 1, 1011011, NULL, NULL, NULL)->(cg, 2,  NULL, c, g)->(hcg, 3,  NULL, h, cg)->(d, 3, 10111, NULL, NULL, NULL)->(hcgd, 6,  NULL, hcg, d)->(ohcgd, 11,  NULL, o, hcgd)->(iohcgd, 21,  NULL, i, ohcgd)->(v, 1, 1100000, NULL, NULL, NULL)->(m, 1, 1100001, NULL, NULL, NULL)->(vm, 2,  NULL, v, m)->(s, 2, 110001, NULL, NULL, NULL)->(vms, 4,  NULL, vm, s)->(t, 5, 11001, NULL, NULL, NULL)->(vmst, 9,  NULL, vms, t)->(b, 10, 1101, NULL, NULL, NULL)->(vmstb, 19,  NULL, vmst, b)->(e, 20, 111, NULL, NULL, NULL)->(vmstbe, 39,  NULL, vmstb, e)->(iohcgdvmstbe, 60,  NULL, iohcgd, vmstbe)->(aiohcgdvmstbe, 100,  NULL, a, iohcgdvmstbe)->

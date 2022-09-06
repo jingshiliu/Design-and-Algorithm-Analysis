@@ -1,0 +1,29 @@
+
+
+Huffman Linked List
+
+(dummy, 0,  d, NULL, NULL)->(d, 5,  h, NULL, NULL)->(h, 5,  o, NULL, NULL)->(o, 5,  i, NULL, NULL)->(i, 10,  g, NULL, NULL)->(g, 15,  e, NULL, NULL)->(e, 20,  a, NULL, NULL)->(a, 40,  NULL, NULL, NULL)->
+
+
+Binary Code of Each Character
+
+a 0
+i 100
+o 1010
+d 10110
+h 10111
+g 110
+e 111
+
+
+Preorder Traversal
+
+(aiodhge, 100,  NULL, a, iodhge)->(a, 40, 0, NULL, NULL, NULL)->(iodhge, 60,  NULL, iodh, ge)->(iodh, 25,  NULL, i, odh)->(i, 10, 100, NULL, NULL, NULL)->(odh, 15,  NULL, o, dh)->(o, 5, 1010, NULL, NULL, NULL)->(dh, 10,  NULL, d, h)->(d, 5, 10110, NULL, NULL, NULL)->(h, 5, 10111, NULL, NULL, NULL)->(ge, 35,  NULL, g, e)->(g, 15, 110, NULL, NULL, NULL)->(e, 20, 111, NULL, NULL, NULL)->
+
+Inorder Traversal
+
+(a, 40, 0, NULL, NULL, NULL)->(aiodhge, 100,  NULL, a, iodhge)->(i, 10, 100, NULL, NULL, NULL)->(iodh, 25,  NULL, i, odh)->(o, 5, 1010, NULL, NULL, NULL)->(odh, 15,  NULL, o, dh)->(d, 5, 10110, NULL, NULL, NULL)->(dh, 10,  NULL, d, h)->(h, 5, 10111, NULL, NULL, NULL)->(iodhge, 60,  NULL, iodh, ge)->(g, 15, 110, NULL, NULL, NULL)->(ge, 35,  NULL, g, e)->(e, 20, 111, NULL, NULL, NULL)->
+
+Postorder Traversal
+
+(a, 40, 0, NULL, NULL, NULL)->(i, 10, 100, NULL, NULL, NULL)->(o, 5, 1010, NULL, NULL, NULL)->(d, 5, 10110, NULL, NULL, NULL)->(h, 5, 10111, NULL, NULL, NULL)->(dh, 10,  NULL, d, h)->(odh, 15,  NULL, o, dh)->(iodh, 25,  NULL, i, odh)->(g, 15, 110, NULL, NULL, NULL)->(e, 20, 111, NULL, NULL, NULL)->(ge, 35,  NULL, g, e)->(iodhge, 60,  NULL, iodh, ge)->(aiodhge, 100,  NULL, a, iodhge)->

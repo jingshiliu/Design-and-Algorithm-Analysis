@@ -1,0 +1,313 @@
+HashTable[10]: (-99999, NULL) -> NULL
+After one op.
+HashTable[10]: (-99999, 53221) -> (53221, NULL) -> NULL
+HashTable[15]: (-99999, NULL) -> NULL
+After one op.
+HashTable[15]: (-99999, 87012) -> (87012, NULL) -> NULL
+HashTable[15]: (-99999, 87012) -> (87012, NULL) -> NULL
+After one op.
+HashTable[15]: (-99999, 40914) -> (40914, 87012) -> (87012, NULL) -> NULL
+HashTable[8]: (-99999, NULL) -> NULL
+After one op.
+HashTable[8]: (-99999, 66814) -> (66814, NULL) -> NULL
+HashTable[8]: (-99999, 66814) -> (66814, NULL) -> NULL
+HashTable already contains this data, no insertion needed.
+After one op.
+HashTable[8]: (-99999, 66814) -> (66814, NULL) -> NULL
+HashTable[16]: (-99999, NULL) -> NULL
+After one op.
+HashTable[16]: (-99999, 56193) -> (56193, NULL) -> NULL
+HashTable[16]: (-99999, 56193) -> (56193, NULL) -> NULL
+op is an unknown operation.
+After one op.
+HashTable[16]: (-99999, 56193) -> (56193, NULL) -> NULL
+HashTable[16]: (-99999, 56193) -> (56193, NULL) -> NULL
+*** Yes, the data is in the hashTable!
+After one op.
+HashTable[16]: (-99999, 56193) -> (56193, NULL) -> NULL
+HashTable[1]: (-99999, NULL) -> NULL
+After one op.
+HashTable[1]: (-99999, 11994) -> (11994, NULL) -> NULL
+HashTable[17]: (-99999, NULL) -> NULL
+After one op.
+HashTable[17]: (-99999, 81035) -> (81035, NULL) -> NULL
+HashTable[3]: (-99999, NULL) -> NULL
+After one op.
+HashTable[3]: (-99999, 38549) -> (38549, NULL) -> NULL
+HashTable[3]: (-99999, 38549) -> (38549, NULL) -> NULL
+HashTable already contains this data, no insertion needed.
+After one op.
+HashTable[3]: (-99999, 38549) -> (38549, NULL) -> NULL
+HashTable[3]: (-99999, 38549) -> (38549, NULL) -> NULL
+After one op.
+HashTable[3]: (-99999, NULL) -> NULL
+HashTable[3]: (-99999, NULL) -> NULL
+***Warning*** Data is not in the Database
+After one op.
+HashTable[3]: (-99999, NULL) -> NULL
+HashTable[5]: (-99999, NULL) -> NULL
+After one op.
+HashTable[5]: (-99999, 72943) -> (72943, NULL) -> NULL
+HashTable[1]: (-99999, 11994) -> (11994, NULL) -> NULL
+After one op.
+HashTable[1]: (-99999, 11903) -> (11903, 11994) -> (11994, NULL) -> NULL
+HashTable[18]: (-99999, NULL) -> NULL
+After one op.
+HashTable[18]: (-99999, 3892) -> (3892, NULL) -> NULL
+HashTable[16]: (-99999, 56193) -> (56193, NULL) -> NULL
+After one op.
+HashTable[16]: (-99999, 10035) -> (10035, 56193) -> (56193, NULL) -> NULL
+HashTable[14]: (-99999, NULL) -> NULL
+After one op.
+HashTable[14]: (-99999, 99017) -> (99017, NULL) -> NULL
+HashTable[1]: (-99999, 11903) -> (11903, 11994) -> (11994, NULL) -> NULL
+HashTable already contains this data, no insertion needed.
+After one op.
+HashTable[1]: (-99999, 11903) -> (11903, 11994) -> (11994, NULL) -> NULL
+HashTable[1]: (-99999, 11903) -> (11903, 11994) -> (11994, NULL) -> NULL
+*** Yes, the data is in the hashTable!
+After one op.
+HashTable[1]: (-99999, 11903) -> (11903, 11994) -> (11994, NULL) -> NULL
+HashTable[14]: (-99999, 99017) -> (99017, NULL) -> NULL
+HashTable already contains this data, no insertion needed.
+After one op.
+HashTable[14]: (-99999, 99017) -> (99017, NULL) -> NULL
+HashTable[14]: (-99999, 99017) -> (99017, NULL) -> NULL
+After one op.
+HashTable[14]: (-99999, NULL) -> NULL
+HashTable[14]: (-99999, NULL) -> NULL
+***Warning*** Data is not in the Database
+After one op.
+HashTable[14]: (-99999, NULL) -> NULL
+HashTable[17]: (-99999, 81035) -> (81035, NULL) -> NULL
+After one op.
+HashTable[17]: (-99999, 33197) -> (33197, 81035) -> (81035, NULL) -> NULL
+HashTable[6]: (-99999, NULL) -> NULL
+***Warning*** Data is not in the Database
+After one op.
+HashTable[6]: (-99999, NULL) -> NULL
+HashTable[15]: (-99999, 40914) -> (40914, 87012) -> (87012, NULL) -> NULL
+After one op.
+HashTable[15]: (-99999, 40914) -> (40914, NULL) -> NULL
+HashTable[1]: (-99999, 11903) -> (11903, 11994) -> (11994, NULL) -> NULL
+After one op.
+HashTable[1]: (-99999, 11903) -> (11903, NULL) -> NULL
+HashTable[1]: (-99999, 11903) -> (11903, NULL) -> NULL
+***Warning*** Data is not in the Database
+After one op.
+HashTable[1]: (-99999, 11903) -> (11903, NULL) -> NULL
+HashTable[10]: (-99999, 53221) -> (53221, NULL) -> NULL
+*** Yes, the data is in the hashTable!
+After one op.
+HashTable[10]: (-99999, 53221) -> (53221, NULL) -> NULL
+HashTable[5]: (-99999, 72943) -> (72943, NULL) -> NULL
+***Warning*** Data is not in the Database
+After one op.
+HashTable[5]: (-99999, 72943) -> (72943, NULL) -> NULL
+HashTable[14]: (-99999, NULL) -> NULL
+After one op.
+HashTable[14]: (-99999, 32279) -> (32279, NULL) -> NULL
+HashTable[17]: (-99999, 33197) -> (33197, 81035) -> (81035, NULL) -> NULL
+After one op.
+HashTable[17]: (-99999, 33197) -> (33197, 39012) -> (39012, 81035) -> (81035, NULL) -> NULL
+HashTable[15]: (-99999, 40914) -> (40914, NULL) -> NULL
+***Warning*** Data is not in the Database
+After one op.
+HashTable[15]: (-99999, 40914) -> (40914, NULL) -> NULL
+HashTable[15]: (-99999, 40914) -> (40914, NULL) -> NULL
+After one op.
+HashTable[15]: (-99999, 40914) -> (40914, 77448) -> (77448, NULL) -> NULL
+HashTable[17]: (-99999, 33197) -> (33197, 39012) -> (39012, 81035) -> (81035, NULL) -> NULL
+After one op.
+HashTable[17]: (-99999, 33197) -> (33197, 39012) -> (39012, NULL) -> NULL
+HashTable[17]: (-99999, 33197) -> (33197, 39012) -> (39012, NULL) -> NULL
+***Warning*** Data is not in the Database
+After one op.
+HashTable[17]: (-99999, 33197) -> (33197, 39012) -> (39012, NULL) -> NULL
+HashTable[18]: (-99999, 3892) -> (3892, NULL) -> NULL
+After one op.
+HashTable[18]: (-99999, NULL) -> NULL
+HashTable[18]: (-99999, NULL) -> NULL
+***Warning*** Data is not in the Database
+After one op.
+HashTable[18]: (-99999, NULL) -> NULL
+HashTable[14]: (-99999, 32279) -> (32279, NULL) -> NULL
+HashTable already contains this data, no insertion needed.
+After one op.
+HashTable[14]: (-99999, 32279) -> (32279, NULL) -> NULL
+HashTable[13]: (-99999, NULL) -> NULL
+After one op.
+HashTable[13]: (-99999, 77713) -> (77713, NULL) -> NULL
+HashTable[9]: (-99999, NULL) -> NULL
+After one op.
+HashTable[9]: (-99999, 12567) -> (12567, NULL) -> NULL
+HashTable[16]: (-99999, 10035) -> (10035, 56193) -> (56193, NULL) -> NULL
+*** Yes, the data is in the hashTable!
+After one op.
+HashTable[16]: (-99999, 10035) -> (10035, 56193) -> (56193, NULL) -> NULL
+HashTable[3]: (-99999, NULL) -> NULL
+***Warning*** Data is not in the Database
+After one op.
+HashTable[3]: (-99999, NULL) -> NULL
+HashTable[4]: (-99999, NULL) -> NULL
+After one op.
+HashTable[4]: (-99999, 91734) -> (91734, NULL) -> NULL
+HashTable[5]: (-99999, 72943) -> (72943, NULL) -> NULL
+After one op.
+HashTable[5]: (-99999, NULL) -> NULL
+HashTable[14]: (-99999, 32279) -> (32279, NULL) -> NULL
+After one op.
+HashTable[14]: (-99999, 22915) -> (22915, 32279) -> (32279, NULL) -> NULL
+HashTable[15]: (-99999, 40914) -> (40914, 77448) -> (77448, NULL) -> NULL
+After one op.
+HashTable[15]: (-99999, 40914) -> (40914, 42876) -> (42876, 77448) -> (77448, NULL) -> NULL
+HashTable[5]: (-99999, NULL) -> NULL
+***Warning*** Data is not in the Database
+After one op.
+HashTable[5]: (-99999, NULL) -> NULL
+HashTable[1]: (-99999, 11903) -> (11903, NULL) -> NULL
+After one op.
+HashTable[1]: (-99999, 11903) -> (11903, 33912) -> (33912, NULL) -> NULL
+HashTable[12]: (-99999, NULL) -> NULL
+After one op.
+HashTable[12]: (-99999, 66330) -> (66330, NULL) -> NULL
+HashTable[16]: (-99999, 10035) -> (10035, 56193) -> (56193, NULL) -> NULL
+After one op.
+HashTable[16]: (-99999, 56193) -> (56193, NULL) -> NULL
+HashTable[16]: (-99999, 56193) -> (56193, NULL) -> NULL
+***Warning*** Data is not in the Database
+After one op.
+HashTable[16]: (-99999, 56193) -> (56193, NULL) -> NULL
+HashTable[15]: (-99999, 40914) -> (40914, 42876) -> (42876, 77448) -> (77448, NULL) -> NULL
+After one op.
+HashTable[15]: (-99999, 33098) -> (33098, 40914) -> (40914, 42876) -> (42876, 77448) -> (77448, NULL) -> NULL
+HashTable[15]: (-99999, 33098) -> (33098, 40914) -> (40914, 42876) -> (42876, 77448) -> (77448, NULL) -> NULL
+*** Yes, the data is in the hashTable!
+After one op.
+HashTable[15]: (-99999, 33098) -> (33098, 40914) -> (40914, 42876) -> (42876, 77448) -> (77448, NULL) -> NULL
+HashTable[13]: (-99999, 77713) -> (77713, NULL) -> NULL
+After one op.
+HashTable[13]: (-99999, NULL) -> NULL
+HashTable[13]: (-99999, NULL) -> NULL
+***Warning*** Data is not in the Database
+After one op.
+HashTable[13]: (-99999, NULL) -> NULL
+HashTable[15]: (-99999, 33098) -> (33098, 40914) -> (40914, 42876) -> (42876, 77448) -> (77448, NULL) -> NULL
+HashTable already contains this data, no insertion needed.
+After one op.
+HashTable[15]: (-99999, 33098) -> (33098, 40914) -> (40914, 42876) -> (42876, 77448) -> (77448, NULL) -> NULL
+HashTable[15]: (-99999, 33098) -> (33098, 40914) -> (40914, 42876) -> (42876, 77448) -> (77448, NULL) -> NULL
+After one op.
+HashTable[15]: (-99999, 40914) -> (40914, 42876) -> (42876, 77448) -> (77448, NULL) -> NULL
+HashTable[15]: (-99999, 40914) -> (40914, 42876) -> (42876, 77448) -> (77448, NULL) -> NULL
+***Warning*** Data is not in the Database
+After one op.
+HashTable[15]: (-99999, 40914) -> (40914, 42876) -> (42876, 77448) -> (77448, NULL) -> NULL
+HashTable[7]: (-99999, NULL) -> NULL
+After one op.
+HashTable[7]: (-99999, 28094) -> (28094, NULL) -> NULL
+HashTable[17]: (-99999, 33197) -> (33197, 39012) -> (39012, NULL) -> NULL
+After one op.
+HashTable[17]: (-99999, 33197) -> (33197, 39012) -> (39012, 81035) -> (81035, NULL) -> NULL
+HashTable[15]: (-99999, 40914) -> (40914, 42876) -> (42876, 77448) -> (77448, NULL) -> NULL
+After one op.
+HashTable[15]: (-99999, 42876) -> (42876, 77448) -> (77448, NULL) -> NULL
+HashTable[16]: (-99999, 56193) -> (56193, NULL) -> NULL
+After one op.
+HashTable[16]: (-99999, 55189) -> (55189, 56193) -> (56193, NULL) -> NULL
+HashTable[17]: (-99999, 33197) -> (33197, 39012) -> (39012, 81035) -> (81035, NULL) -> NULL
+*** Yes, the data is in the hashTable!
+After one op.
+HashTable[17]: (-99999, 33197) -> (33197, 39012) -> (39012, 81035) -> (81035, NULL) -> NULL
+HashTable[18]: (-99999, NULL) -> NULL
+After one op.
+HashTable[18]: (-99999, 19209) -> (19209, NULL) -> NULL
+HashTable[7]: (-99999, 28094) -> (28094, NULL) -> NULL
+After one op.
+HashTable[7]: (-99999, 28094) -> (28094, 68872) -> (68872, NULL) -> NULL
+HashTable[7]: (-99999, 28094) -> (28094, 68872) -> (68872, NULL) -> NULL
+*** Yes, the data is in the hashTable!
+After one op.
+HashTable[7]: (-99999, 28094) -> (28094, 68872) -> (68872, NULL) -> NULL
+HashTable[6]: (-99999, NULL) -> NULL
+***Warning*** Data is not in the Database
+After one op.
+HashTable[6]: (-99999, NULL) -> NULL
+HashTable[18]: (-99999, 19209) -> (19209, NULL) -> NULL
+After one op.
+HashTable[18]: (-99999, 19209) -> (19209, 77815) -> (77815, NULL) -> NULL
+HashTable[14]: (-99999, 22915) -> (22915, 32279) -> (32279, NULL) -> NULL
+After one op.
+HashTable[14]: (-99999, 22915) -> (22915, 32279) -> (32279, 83091) -> (83091, NULL) -> NULL
+HashTable[5]: (-99999, NULL) -> NULL
+After one op.
+HashTable[5]: (-99999, 44201) -> (44201, NULL) -> NULL
+HashTable[6]: (-99999, NULL) -> NULL
+After one op.
+HashTable[6]: (-99999, 24667) -> (24667, NULL) -> NULL
+HashTable[14]: (-99999, 22915) -> (22915, 32279) -> (32279, 83091) -> (83091, NULL) -> NULL
+After one op.
+HashTable[14]: (-99999, 22915) -> (22915, 32279) -> (32279, 66251) -> (66251, 83091) -> (83091, NULL) -> NULL
+HashTable[14]: (-99999, 22915) -> (22915, 32279) -> (32279, 66251) -> (66251, 83091) -> (83091, NULL) -> NULL
+HashTable already contains this data, no insertion needed.
+After one op.
+HashTable[14]: (-99999, 22915) -> (22915, 32279) -> (32279, 66251) -> (66251, 83091) -> (83091, NULL) -> NULL
+HashTable[14]: (-99999, 22915) -> (22915, 32279) -> (32279, 66251) -> (66251, 83091) -> (83091, NULL) -> NULL
+*** Yes, the data is in the hashTable!
+After one op.
+HashTable[14]: (-99999, 22915) -> (22915, 32279) -> (32279, 66251) -> (66251, 83091) -> (83091, NULL) -> NULL
+HashTable[17]: (-99999, 33197) -> (33197, 39012) -> (39012, 81035) -> (81035, NULL) -> NULL
+*** Yes, the data is in the hashTable!
+After one op.
+HashTable[17]: (-99999, 33197) -> (33197, 39012) -> (39012, 81035) -> (81035, NULL) -> NULL
+HashTable[17]: (-99999, 33197) -> (33197, 39012) -> (39012, 81035) -> (81035, NULL) -> NULL
+***Warning*** Data is not in the Database
+After one op.
+HashTable[17]: (-99999, 33197) -> (33197, 39012) -> (39012, 81035) -> (81035, NULL) -> NULL
+HashTable[18]: (-99999, 19209) -> (19209, 77815) -> (77815, NULL) -> NULL
+op is an unknown operation.
+After one op.
+HashTable[18]: (-99999, 19209) -> (19209, 77815) -> (77815, NULL) -> NULL
+HashTable[18]: (-99999, 19209) -> (19209, 77815) -> (77815, NULL) -> NULL
+*** Yes, the data is in the hashTable!
+After one op.
+HashTable[18]: (-99999, 19209) -> (19209, 77815) -> (77815, NULL) -> NULL
+HashTable[14]: (-99999, 22915) -> (22915, 32279) -> (32279, 66251) -> (66251, 83091) -> (83091, NULL) -> NULL
+op is an unknown operation.
+After one op.
+HashTable[14]: (-99999, 22915) -> (22915, 32279) -> (32279, 66251) -> (66251, 83091) -> (83091, NULL) -> NULL
+HashTable[14]: (-99999, 22915) -> (22915, 32279) -> (32279, 66251) -> (66251, 83091) -> (83091, NULL) -> NULL
+*** Yes, the data is in the hashTable!
+After one op.
+HashTable[14]: (-99999, 22915) -> (22915, 32279) -> (32279, 66251) -> (66251, 83091) -> (83091, NULL) -> NULL
+HashTable[5]: (-99999, 44201) -> (44201, NULL) -> NULL
+***Warning*** Data is not in the Database
+After one op.
+HashTable[5]: (-99999, 44201) -> (44201, NULL) -> NULL
+HashTable[5]: (-99999, 44201) -> (44201, NULL) -> NULL
+*** Yes, the data is in the hashTable!
+After one op.
+HashTable[5]: (-99999, 44201) -> (44201, NULL) -> NULL
+HashTable[6]: (-99999, 24667) -> (24667, NULL) -> NULL
+*** Yes, the data is in the hashTable!
+After one op.
+HashTable[6]: (-99999, 24667) -> (24667, NULL) -> NULL
+HashTable[0]: (-99999, NULL) -> NULL
+HashTable[1]: (-99999, 11903) -> (11903, 33912) -> (33912, NULL) -> NULL
+HashTable[2]: (-99999, NULL) -> NULL
+HashTable[3]: (-99999, NULL) -> NULL
+HashTable[4]: (-99999, 91734) -> (91734, NULL) -> NULL
+HashTable[5]: (-99999, 44201) -> (44201, NULL) -> NULL
+HashTable[6]: (-99999, 24667) -> (24667, NULL) -> NULL
+HashTable[7]: (-99999, 28094) -> (28094, 68872) -> (68872, NULL) -> NULL
+HashTable[8]: (-99999, 66814) -> (66814, NULL) -> NULL
+HashTable[9]: (-99999, 12567) -> (12567, NULL) -> NULL
+HashTable[10]: (-99999, 53221) -> (53221, NULL) -> NULL
+HashTable[11]: (-99999, NULL) -> NULL
+HashTable[12]: (-99999, 66330) -> (66330, NULL) -> NULL
+HashTable[13]: (-99999, NULL) -> NULL
+HashTable[14]: (-99999, 22915) -> (22915, 32279) -> (32279, 66251) -> (66251, 83091) -> (83091, NULL) -> NULL
+HashTable[15]: (-99999, 42876) -> (42876, 77448) -> (77448, NULL) -> NULL
+HashTable[16]: (-99999, 55189) -> (55189, 56193) -> (56193, NULL) -> NULL
+HashTable[17]: (-99999, 33197) -> (33197, 39012) -> (39012, 81035) -> (81035, NULL) -> NULL
+HashTable[18]: (-99999, 19209) -> (19209, 77815) -> (77815, NULL) -> NULL

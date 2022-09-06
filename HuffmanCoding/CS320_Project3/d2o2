@@ -1,0 +1,38 @@
+LL
+
+(dummy, 0,  a, NULL, NULL)->(a, 50,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  z, NULL, NULL)->(z, 2,  a, NULL, NULL)->(a, 50,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  z, NULL, NULL)->(z, 2,  i, NULL, NULL)->(i, 10,  a, NULL, NULL)->(a, 50,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  z, NULL, NULL)->(z, 2,  o, NULL, NULL)->(o, 5,  i, NULL, NULL)->(i, 10,  a, NULL, NULL)->(a, 50,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  z, NULL, NULL)->(z, 2,  u, NULL, NULL)->(u, 3,  o, NULL, NULL)->(o, 5,  i, NULL, NULL)->(i, 10,  a, NULL, NULL)->(a, 50,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  z, NULL, NULL)->(z, 2,  u, NULL, NULL)->(u, 3,  o, NULL, NULL)->(o, 5,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 30,  a, NULL, NULL)->(a, 50,  NULL, NULL, NULL)->
+
+
+
+
+Tree
+(dummy, 0,  zu, NULL, NULL)->(zu, 5,  o, z, u)->(o, 5,  i, NULL, NULL)->(i, 10,  e, NULL, NULL)->(e, 30,  a, NULL, NULL)->(a, 50,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  zuo, NULL, NULL)->(zuo, 10,  i, zu, o)->(i, 10,  e, NULL, NULL)->(e, 30,  a, NULL, NULL)->(a, 50,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  zuoi, NULL, NULL)->(zuoi, 20,  e, zuo, i)->(e, 30,  a, NULL, NULL)->(a, 50,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  zuoie, NULL, NULL)->(zuoie, 50,  a, zuoi, e)->(a, 50,  NULL, NULL, NULL)->
+
+
+(dummy, 0,  zuoiea, NULL, NULL)->(zuoiea, 100,  NULL, zuoie, a)->
+
+
