@@ -1,0 +1,3 @@
+Found a solution
+Make moves by following bottom configurations would give the shortest path.
+ (5 :: 283104765 :: 283164705) --> (6 :: 203184765 :: 283104765) --> (7 :: 023184765 :: 203184765) --> (6 :: 123084765 :: 023184765) --> (5 :: 123804765 :: 123084765) --> 
