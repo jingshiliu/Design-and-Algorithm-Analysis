@@ -1,0 +1,45 @@
+*** Data is already in the hashtable, no insertion takes place
+*** Data is already in the hashtable, no insertion takes place
+*** Data is already in the hashtable, no insertion takes place
+*** Data is already in the hashtable, no insertion takes place
+*** Data is already in the hashtable, no insertion takes place
+*** Data is already in the hashtable, no insertion takes place
+*** Data is already in the hashtable, no insertion takes place
+*** Data is already in the hashtable, no insertion takes place
+*** Data is already in the hashtable, no insertion takes place
+*** Data is already in the hashtable, no insertion takes place
+*** Data is already in the hashtable, no insertion takes place
+
+
+
+Final print: 
+HashTable[0]: (dummy, Huihui) -> (Huihui, Khoi) -> (Khoi, Rashad) -> (Rashad, Seth) -> (Seth, Wei) -> (Wei, Yangfan) -> (Yangfan, Yechiel) -> (Yechiel, NULL) -> 
+HashTable[1]: (dummy, Colin) -> (Colin, Denny) -> (Denny, Michael) -> (Michael, Tenzin) -> (Tenzin, NULL) -> 
+HashTable[2]: (dummy, Niraj) -> (Niraj, Xihao) -> (Xihao, NULL) -> 
+HashTable[3]: (dummy, Conghui) -> (Conghui, Evgeniia) -> (Evgeniia, Han) -> (Han, Laert) -> (Laert, NULL) -> 
+HashTable[4]: (dummy, Ameer) -> (Ameer, Nahiyan) -> (Nahiyan, NULL) -> 
+HashTable[5]: (dummy, Heesun) -> (Heesun, Kevin) -> (Kevin, Lin) -> (Lin, Patricio) -> (Patricio, NULL) -> 
+HashTable[6]: (dummy, Cesar) -> (Cesar, Marco) -> (Marco, Matthew) -> (Matthew, NULL) -> 
+HashTable[7]: (dummy, Peter) -> (Peter, Xing) -> (Xing, NULL) -> 
+HashTable[8]: (dummy, Angelo) -> (Angelo, Brian) -> (Brian, NULL) -> 
+HashTable[9]: (dummy, Joel) -> (Joel, Sim) -> (Sim, Taejoon) -> (Taejoon, NULL) -> 
+HashTable[10]: (dummy, Jason) -> (Jason, NULL) -> 
+HashTable[11]: (dummy, Thurein) -> (Thurein, NULL) -> 
+HashTable[12]: (dummy, Jacb) -> (Jacb, Yinyu) -> (Yinyu, NULL) -> 
+HashTable[13]: (dummy, Vincenzo) -> (Vincenzo, Yifei) -> (Yifei, NULL) -> 
+HashTable[14]: (dummy, Ba) -> (Ba, Esteban) -> (Esteban, Jiayu) -> (Jiayu, Resfred) -> (Resfred, NULL) -> 
+HashTable[15]: (dummy, Gregory) -> (Gregory, Kelvin) -> (Kelvin, NULL) -> 
+HashTable[16]: (dummy, Zhiheng) -> (Zhiheng, NULL) -> 
+HashTable[17]: (dummy, Carlos) -> (Carlos, Kenny) -> (Kenny, Win) -> (Win, NULL) -> 
+HashTable[18]: (dummy, Brandon) -> (Brandon, Cheng) -> (Cheng, Russell) -> (Russell, Seong) -> (Seong, Youyia) -> (Youyia, NULL) -> 
+HashTable[19]: (dummy, Ben) -> (Ben, Yuhuan) -> (Yuhuan, NULL) -> 
+HashTable[20]: (dummy, Jasmin) -> (Jasmin, Jiaxin) -> (Jiaxin, Luis) -> (Luis, NULL) -> 
+HashTable[21]: (dummy, Justin) -> (Justin, Qisheng) -> (Qisheng, NULL) -> 
+HashTable[22]: (dummy, Emanuel) -> (Emanuel, Hishaam) -> (Hishaam, Jiade) -> (Jiade, Jingshi) -> (Jingshi, Shaxzod) -> (Shaxzod, Tsaiyun) -> (Tsaiyun, NULL) -> 
+HashTable[23]: (dummy, Danielle) -> (Danielle, Hou) -> (Hou, Logan) -> (Logan, Yuan) -> (Yuan, NULL) -> 
+HashTable[24]: (dummy, Allan) -> (Allan, Chandra) -> (Chandra, Christopher) -> (Christopher, Joseph) -> (Joseph, Juan) -> (Juan, Robin) -> (Robin, NULL) -> 
+HashTable[25]: (dummy, Gildian) -> (Gildian, Zheng) -> (Zheng, NULL) -> 
+HashTable[26]: (dummy, Jeffrey) -> (Jeffrey, Jianwei) -> (Jianwei, NULL) -> 
+HashTable[27]: (dummy, Andres) -> (Andres, Dorjee) -> (Dorjee, Taeyong) -> (Taeyong, NULL) -> 
+HashTable[28]: (dummy, Akshar) -> (Akshar, Zhong) -> (Zhong, NULL) -> 
+
